@@ -46,6 +46,10 @@ h1 {
     text-transform: uppercase;
 }
 
+h2, h3, h4 {
+    color: rgb(194, 164, 56);
+}
+
 a {
     color: orangered;
 }
