@@ -1,2 +1,2 @@
-**Portal** for ~~:e_home~~
+**Portal** for ~~e_home~~
 
