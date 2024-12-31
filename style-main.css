@@ -40,3 +40,13 @@ h1 {
     color: rgb(194, 194, 0);
     text-transform: uppercase;
 }
+
+a {
+    text-decoration: none;
+    color: gold;
+    font-weight: bolder;
+    font-family: monospace;
+}
+a:hover {
+    color: cyan  
+}
